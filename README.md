@@ -15,15 +15,15 @@ piscine : conférences/ travaux dirigés/ exercice du soir/revues de code
 
 Acquis visées en CUNIX 
 - écrire des programmes simples en C impliquant la gestion minimale de dépendances 
--configurer les fichiers nécessiares à la compilation d'un programme en C pour fournir un .exe
+- configurer les fichiers nécessiares à la compilation d'un programme en C pour fournir un .exe
 - appliquer des règles de styles et d'hygiène prédefénie en matière d'écritures de code 
 - utiliser une suite de test mise à disposition pour valider le bon fonctionnement d'un programme 
 
 critères d'évaluations: 
--1er relevé: fin de piscine 
--2eme relevé: fin de la semaine de validation des acquis de la piscine 
--examen machine post-piscine 
--examen machine post validation 
+- 1er relevé: fin de piscine 
+- 2eme relevé: fin de la semaine de validation des acquis de la piscine 
+- examen machine post-piscine 
+- examen machine post validation 
 
 NEW: exercice organisé de manières arborescente, il y a un ordre dans les exercices 
 certains exo sontobligatoires pour valide rla piscine, rendus autorisé que si tous les exos d'ava,t sont validés 
