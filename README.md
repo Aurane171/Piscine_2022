@@ -32,13 +32,13 @@ BAREME: piscine 60% de la note, chaque étudiant doit avoir les compétences, si
 exam machine 40% de la note finale: examen post-piscine 30% / examen macine post-validation: 70%
 (pas de différence d eniveau entre les exam)
 
-CONSEIL : travaul régulier dès le premier jours et je mettre en tension dès le début
-si on reste bloqué plus de 30 min: il faut appeler d e l'aide 
+CONSEIL : travail régulier dès le premier jours et se mettre en tension dès le début
+si on reste bloqué plus de 30 min => il faut appeler de l'aide 
 => compétence attendu pour un ingénieur 
 ne pas se laisser submerger par la quantité de travail
-attendu:  chercher la solution et la chercher efficacement (aide/ doc/ camarades) 
+attendu : chercher la solution et la chercher efficacement (aide/ doc/ camarades) 
 
 QUEST	: 
--les exos sont donnés au fur et à mesure des deux semaines 
+- les exos sont donnés au fur et à mesure des deux semaines 
 - même si on arrive pas a un exo oligatoires ça n'empeche pas le débloquage des autres exos obligatoires 
 - PAS DE PRECISONS SI ON EST OBLIGE DE BOSSER SUR ORDI EPITA 
